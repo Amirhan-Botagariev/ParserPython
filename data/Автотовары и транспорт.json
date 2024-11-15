@@ -1,0 +1,64 @@
+[
+    {
+        "title": "Помощь на Дороге",
+        "subtitle": {}
+    },
+    {
+        "title": "Электротранспорт",
+        "subtitle": {
+            "Электросамокаты": "https://www.technodom.kz/catalog/sport-turizm-bagazh/transport/jelektrosamokaty",
+            "Электровелосипеды": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/velosipedy/f/cl-velosipedy-osnovnyye-vid/ehlektrovelosiped",
+            "Аксессуары для электротранспорта": "https://www.technodom.kz/catalog/avtotovary-i-transport/jelektrotransport/aksessuary-dlja-jelektrotransporta"
+        }
+    },
+    {
+        "title": "Автозвук",
+        "subtitle": {
+            "Автомагнитолы": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtozvuk/avtomagnitoly",
+            "Автоакустика": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtozvuk/avtoakustika",
+            "Автосабвуферы": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtozvuk/avtosabvufery",
+            "Автоусилители": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtozvuk/avtousiliteli"
+        }
+    },
+    {
+        "title": "Автоэлектроника",
+        "subtitle": {
+            "Видеорегистраторы": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/videoregistratory",
+            "Комбо устройства (видеорегистратор + радар)": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/kombo-ustrojstva-gibridy",
+            "Радар-детекторы": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/radar-detektory",
+            "Автосигнализации": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/avtosignalizacii",
+            "Аксессуары для автосигнализаций": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/aksessuary-dlja-avtosignalizacij",
+            "GPS Навигаторы": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/gps-navigatory",
+            "Парковочные радары и камеры": "https://www.technodom.kz/catalog/avtotovary-i-transport/avtojelektronika/parkovochnye-radary-i-kamery",
+            "Карты памяти для видеорегистраторов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/karty-pamjati/f/cl-memory-cards-osnovnyye-22/128/cl-memory-cards-osnovnyye-22/16/cl-memory-cards-osnovnyye-22/32/cl-memory-cards-osnovnyye-22/64/cl-memory-cards-osnovnyye-380/microsdxc"
+        }
+    },
+    {
+        "title": "Уход за автомобилем",
+        "subtitle": {
+            "Мойки высокого давления": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/mojki-vysokogo-davlenija",
+            "Зимний уход": "https://www.technodom.kz/catalog/avtotovary-i-transport/uhod-za-avtomobilem/zimnij-uhod"
+        }
+    },
+    {
+        "title": "Аккумуляторы и зарядные устройства",
+        "subtitle": {
+            "Авто аксессуары для смартфонов": "https://www.technodom.kz/catalog/avtotovary-i-transport/akkumuljatory-i-zarjadnye-ustrojstva/avtomobil-nye-zarjadnye-ustrojstva"
+        }
+    },
+    {
+        "title": "Ремонт авто",
+        "subtitle": {
+            "Автокомпрессоры": "https://www.technodom.kz/catalog/avtotovary-i-transport/remont-avto/avtokompressory",
+            "Инструменты": "https://www.technodom.kz/catalog/avtotovary-i-transport/remont-avto/instrumenty"
+        }
+    },
+    {
+        "title": "Аксессуары для автолюбителей",
+        "subtitle": {
+            "Подставки": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/podstavki",
+            "Термосы, фляжки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/termosy-fljazhki",
+            "Прочие аксессуары для автолюбителей": "https://www.technodom.kz/catalog/avtotovary-i-transport/aksessuary-dlja-avtoljubitelej/prochie-aksessuary-dlja-avtoljubitelej"
+        }
+    }
+]

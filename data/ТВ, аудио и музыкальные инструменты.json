@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Телевизоры",
+        "subtitle": {
+            "Телевизоры LG": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/brands/lg",
+            "Телевизоры Samsung": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/brands/samsung",
+            "Телевизоры Sony": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/brands/sony",
+            "Телевизоры 4K": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/cl-tv-main-spec-757/3840x2160-ultra-hd-4k",
+            "Телевизоры 8K": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/cl-tv-main-spec-757/7680x4320-ultra-hd-8k",
+            "Телевизоры Smart": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/cl-tv-main-spec-760/yes",
+            "Телевизоры OLED": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/cl-tv-main-spec-1323/oled",
+            "Телевизоры Nano Cell": "https://www.technodom.kz/catalog/tv-audio-foto-video/televizory/led-televizory/f/cl-tv-main-spec-1323/nano-cell"
+        }
+    },
+    {
+        "title": "Медиаплееры",
+        "subtitle": {
+            "Apple": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/mediapleery/f/brands/apple",
+            "Xiaomi": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/mediapleery/f/brands/xiaomi"
+        }
+    },
+    {
+        "title": "Аксессуары для телевизоров",
+        "subtitle": {
+            "Рамки для телевизоров": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/ramki-dlja-televizorov",
+            "Кронштейны": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/kronshtejny",
+            "Тумбы и столики": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/tumby-i-stoliki",
+            "Видеокабели и переходники": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/videokabeli-i-perehodniki",
+            "Стабилизаторы напряжения": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-juternye-aksessuary/stabilizatory",
+            "Пульты": "https://www.technodom.kz/catalog/tv-audio-foto-video/aksessuary-dlja-televizorov/pul-ty",
+            "Батарейки": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/pitanie-dlja-fotoapparatov"
+        }
+    },
+    {
+        "title": "Видео техника",
+        "subtitle": {
+            "Проекторы для домашнего кинотеатра": "https://www.technodom.kz/catalog/tv-audio-foto-video/video-tehnika/proektory/f/cl-projectors-main-recom-field-of-app/dlja-domashnego-kinoteatra",
+            "Проекторы для офиса": "https://www.technodom.kz/catalog/tv-audio-foto-video/video-tehnika/proektory/f/cl-projectors-main-recom-field-of-app/dlja-ofisa",
+            "Экраны для проектора": "https://www.technodom.kz/catalog/tv-audio-foto-video/video-tehnika/jekrany-dlja-proektora",
+            "Аксессуары для проекторов": "https://www.technodom.kz/catalog/tv-audio-foto-video/video-tehnika/aksessuary-dlja-proektorov",
+            "Проекторы": "https://www.technodom.kz/catalog/tv-audio-foto-video/video-tehnika/proektory"
+        }
+    },
+    {
+        "title": "Аудио техника",
+        "subtitle": {
+            "Акустика": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/akustika",
+            "Музыкальные центры": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/muzykal-nye-centry",
+            "Портативные колонки": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/besprovodnye-kolonki",
+            "Микрофоны": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/mikrofony",
+            "Студийные наушники": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/naushniki/vse-naushniki/f/cl-naushniki-harakteristiki-792/monitornihe-studiynihe",
+            "Радиоприемники": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/radiopriemniki",
+            "Аксессуары для аудио техники": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/aksessuary-dlja-audio-tehniki",
+            "Караоке": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/karaoke",
+            "Яндекс (Алиса)": "https://www.technodom.kz/cms/promo/smart_devices_for_alisa"
+        }
+    },
+    {
+        "title": "Домашний кинотеатр и Hi-Fi",
+        "subtitle": {
+            "Саундбары": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/saundbary",
+            "Акустические системы": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/akustika-hi-fi",
+            "Сабвуферы": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/sabvufery",
+            "AV ресиверы и процессоры": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/resivery",
+            "Усилители": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/usiliteli",
+            "Виниловые проигрыватели": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/vinilovye-proigryvateli",
+            "Сетевые фильтры": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-juternye-aksessuary/setevye-fil-try",
+            "Кабели Hi-Fi": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/kabeli-hi-fi",
+            "Bang & Olufsen": "https://www.technodom.kz/cms/b/bang-olufsen"
+        }
+    },
+    {
+        "title": "Музыкальные инструменты",
+        "subtitle": {
+            "Синтезаторы": "https://www.technodom.kz/catalog/tv-audio-foto-video/muzykal-nye-instrumenty/sintezatory",
+            "Цифровые пианино": "https://www.technodom.kz/catalog/tv-audio-foto-video/muzykal-nye-instrumenty/cifrovoe-pianino",
+            "Гитары": "https://www.technodom.kz/catalog/tv-audio-foto-video/muzykal-nye-instrumenty/gitary",
+            "Аксессуары для музыкальных инструментов": "https://www.technodom.kz/catalog/tv-audio-foto-video/muzykal-nye-instrumenty/aksessuary-dlja-muzykal-nyh-instrumentov"
+        }
+    },
+    {
+        "title": "Программное обеспечение",
+        "subtitle": {
+            "Удаленный сервис для ТВ": "https://www.technodom.kz/catalog/tv-audio-foto-video/podpiski-i-servisy/udalennyj-servis-dlja-tv",
+            "Онлайн-кинотеатры для ТВ": "https://www.technodom.kz/catalog/tv-audio-foto-video/podpiski-i-servisy/onlajn-kinoteatry-dlja-tv"
+        }
+    },
+    {
+        "title": "Цифровое/Спутниковое ТВ",
+        "subtitle": {
+            "Комплекты спутникового ТВ": "https://www.technodom.kz/catalog/tv-audio-foto-video/cifrovoe-sputnikovoe-tv/komplekty-sputnikovogo-tv"
+        }
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "title": "Экшн-камеры и аксессуары",
+        "subtitle": {
+            "Экшн-камеры": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jekshn-kamery-i-aksessuary/jekshn-kamery",
+            "Аккумуляторы для экшн камер": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jekshn-kamery-i-aksessuary/akkumuljatory-dlja-jekshn-kamer",
+            "Аксессуары для экшн камер": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jekshn-kamery-i-aksessuary/aksessuary-dlja-jekshn-kamer"
+        }
+    },
+    {
+        "title": "Фотоаппараты",
+        "subtitle": {
+            "Фотоаппараты системные": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/fotoapparaty/fotoapparaty-sistemnye",
+            "Фотоаппараты зеркальные": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/fotoapparaty/fotoapparaty-zerkal-nye",
+            "Фотоаппараты компактные": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/fotoapparaty/fotoapparaty-kompaktnye",
+            "Фотоаппараты моментальной печати": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/fotoapparaty/fotoapparaty-momental-noj-pechati",
+            "Принтеры моментальной печати": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/fotoapparaty/printery-momental-noj-pechati",
+            "Аксессуары моментальной печати": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/fotoapparaty/aksessuary-momental-noj-pechati"
+        }
+    },
+    {
+        "title": "Видеокамеры",
+        "subtitle": {}
+    },
+    {
+        "title": "Объективы и аксессуары",
+        "subtitle": {
+            "Объективы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/ob-ektivy-i-aksessuary/ob-ektivy",
+            "Адаптеры": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/ob-ektivy-i-aksessuary/adaptery",
+            "Фильтры для объективов": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/ob-ektivy-i-aksessuary/fil-try-dlja-ob-ektiva"
+        }
+    },
+    {
+        "title": "Штативы и стабилизаторы",
+        "subtitle": {
+            "Штативы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/shtativy-i-stabilizatory/shtativy",
+            "Аксессуары для штативов": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/shtativy-i-stabilizatory/aksessuary-dlja-shtativov",
+            "Стабилизаторы (Стедикамы)": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/stedikamy",
+            "Аксессуары для стабилизаторов (стедикамов)": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/shtativy-i-stabilizatory/aksessuary-dlja-stedikam"
+        }
+    },
+    {
+        "title": "Питание для фотоаппаратов",
+        "subtitle": {
+            "Аккумуляторы для фото/видео техники": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/pitanie-dlja-fotoapparatov/akkumuljatory-dlja-foto-video-tehniki",
+            "Зарядные устройства для фото/видео техники": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/pitanie-dlja-fotoapparatov/zarjadnye-ustrojstva-dlja-foto-video-tehniki",
+            "Батарейные блоки": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/pitanie-dlja-fotoapparatov/batarejnye-bloki"
+        }
+    },
+    {
+        "title": "Сумки и чехлы",
+        "subtitle": {
+            "Сумки для фото/видео": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/sumki-i-chehly/sumki-dlja-foto-video"
+        }
+    },
+    {
+        "title": "Световое оборудование",
+        "subtitle": {
+            "Кольцевые лампы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/kol-cevye-lampy",
+            "Фотовспышки": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/fotovspyshki",
+            "Студийный свет": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/studijnyj-svet",
+            "Софтбоксы и фотобоксы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/softboksy-i-fotoboksy",
+            "Фотозонты": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/fotozonty",
+            "Радиосинхронизаторы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/radiosinhronizatory",
+            "Отражатели": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/otrazhateli",
+            "Системы крепления": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/sistemy-kreplenija"
+        }
+    },
+    {
+        "title": "Запись звука",
+        "subtitle": {
+            "Радиосистемы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/zapis-zvuka/radiosistemy",
+            "Рекордеры": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/zapis-zvuka/rekordery",
+            "Радиомикрофоны": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/zapis-zvuka/radiomikrofony"
+        }
+    },
+    {
+        "title": "Дополнительное оборудование",
+        "subtitle": {
+            "Накамерные мониторы (Рекордеры)": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/dopolnitel-noe-oborudovanie/zhk-jekrany",
+            "Аксессуары для накамерных мониторов": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/dopolnitel-noe-oborudovanie/aksessuary-dlja-nakamernyh-monitorov",
+            "Клетки и хваты": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/dopolnitel-noe-oborudovanie/kletki-i-hvaty",
+            "Пульты ДУ": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/dopolnitel-noe-oborudovanie/pul-t-du",
+            "Держатели для мониторов и аксессуаров": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/dopolnitel-noe-oborudovanie/derzhateli-dlja-monitorov-i-aksessuarov"
+        }
+    },
+    {
+        "title": "Карты памяти",
+        "subtitle": {}
+    },
+    {
+        "title": "Дроны и квадрокоптеры",
+        "subtitle": {
+            "Дроны": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/drony-i-kvadrokoptery/drony",
+            "Кейсы и сумки": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/drony-i-kvadrokoptery/kejsy-i-sumki",
+            "Фильтры для дронов": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/drony-i-kvadrokoptery/fil-try-dlja-dronov"
+        }
+    },
+    {
+        "title": "Батарейки и аккумуляторы",
+        "subtitle": {}
+    },
+    {
+        "title": "Электропитание",
+        "subtitle": {
+            "Портативные зарядные станции": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jelektropitanie/portativnye-zarjadnye-stancii",
+            "Солнечные панели": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jelektropitanie/solnechnye-paneli",
+            "Аксессуары к зарядным станциям": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jelektropitanie/aksessuary-k-zarjadnym-stancijam"
+        }
+    }
+]

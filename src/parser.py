@@ -1,7 +1,10 @@
 import time
 
 from selenium import webdriver
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium_stealth import stealth
 from config import BASE_URL
 
@@ -33,8 +36,7 @@ def get_subtitle(category_info, category_div):
         except:
             continue  # Если ссылки нет, просто пропускаем
 
-    category_info["subtitle"] = {[subtitle, link] for subtitle, link in zip(subtitles, links)}
-
+    category_info["subtitle"] = {subtitle: link for subtitle, link in zip(subtitles, links)}
     return category_info
 
 
@@ -67,11 +69,37 @@ class Parser:
                 renderer="Intel Iris OpenGL Engine",
                 fix_hairline=True,
                 )
-
     def get_driver(self):
         return self.driver
+    def change_city(self, need_city):
+        try:
+            modal_button = WebDriverWait(self.driver, 10).until(
+                EC.element_to_be_clickable((By.CLASS_NAME, "CitySelector_block__gRcUu"))
+            )
+            modal_button.click()
+
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "CitiesList_listItem__dVrVg"))
+            )
+
+            cities = self.driver.find_elements(By.CSS_SELECTOR,
+                                                       "div.CitiesList_listItem__dVrVg.CitiesList_major__xzX7M")
+
+            for city in cities:
+                city_name = city.find_element(By.CSS_SELECTOR, "p.Typography.CitiesList_name__6yw7D.Typography__Body")
+                if city_name.text.strip() == need_city:
+                    city_name.click()
+                    print(f"Клик выполнен по '{need_city}'")
+                    break
+                else:
+                    print("Элемент с текстом 'Астана' не найден.")
+        except Exception as e:
+            print(f"Ошибка: {e}")
     def open_browser(self):
         self.driver.get(BASE_URL)
+        time.sleep(2)
+        self.change_city('Астана')
+        time.sleep(1)
     def close_browser(self):
         self.driver.quit()
     def get_main_headings(self) -> list:
@@ -85,9 +113,22 @@ class Parser:
         try:
             buttons = self.driver.find_elements(By.CSS_SELECTOR, "button.CatalogPage_collapseButton__RTqD3")
             for button in buttons:
-                    button.click()
+                if button.is_displayed() and button.is_enabled():
+                    self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", button)
+
+                    ActionChains(self.driver).move_to_element(button).click().perform()
+
+                    WebDriverWait(self.driver, 10).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, "button.CatalogPage_collapseButton__RTqD3"))
+                    )
                     time.sleep(1)
-        except Exception as e: pass
+                else:
+                    pass
+
+        except Exception as e:
+            print(e)
+
+        time.sleep(2)
 
         categories_data = []
         categories_divs = (self.driver.find_element(By.CSS_SELECTOR,
@@ -104,7 +145,6 @@ class Parser:
             categories_data.append(category_info)
 
         return categories_data
-
     def click_heading(self, target_text):
         button = self.driver.find_element(By.XPATH,
                                       f"//p[contains(@class, 'Typography__L_Bold') and text()='{target_text}']")

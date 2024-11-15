@@ -1,0 +1,129 @@
+[
+    {
+        "title": "Электроинструмент",
+        "subtitle": {
+            "Перфораторы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/perforatory",
+            "Шлифовальные машины": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/shlifoval-nye-mashiny",
+            "Пилы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/pily",
+            "Дрели и шуруповерты": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/dreli-i-shurupoverty",
+            "Отбойные молотки": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/otbojnye-molotki",
+            "Электролобзики": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/jelektrolobziki",
+            "Фрезеры": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/frezery",
+            "Рубанки": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/rubanki",
+            "Строительные фены": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/stroitel-nye-feny",
+            "Аккумуляторы для электроинструментов": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/akkumuljatory-dlja-jelektroinstrumentov",
+            "Электроточила": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/jelektrotochila",
+            "Строительные пылесосы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/stroitel-nye-pylesosy",
+            "Пистолеты": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/pistolety",
+            "Аксессуары для электроинструментов": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/jelektroinstrument/aksessuary-dlja-jelektroinstrumentov"
+        }
+    },
+    {
+        "title": "Расходники для инструмента",
+        "subtitle": {
+            "Диски": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/rashodniki-dlja-instrumenta/diski",
+            "Сверла": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/rashodniki-dlja-instrumenta/sverla",
+            "Буры": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/rashodniki-dlja-instrumenta/bury",
+            "Оснастка для шлифовальных машин": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/rashodniki-dlja-instrumenta/osnastka-dlja-shlifoval-nyh-mashin",
+            "Граверы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/rashodniki-dlja-instrumenta/gravery"
+        }
+    },
+    {
+        "title": "Ручной инструмент",
+        "subtitle": {
+            "Наборы инструментов": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/ruchnoj-instrument/nabory-instrumentov",
+            "Степлеры, заклепочники": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/ruchnoj-instrument/steplery-zaklepochniki"
+        }
+    },
+    {
+        "title": "Измерительный инструмент",
+        "subtitle": {
+            "Мультиметры": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/izmeritel-nyj-instrument/mul-timetry",
+            "Нивелиры": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/izmeritel-nyj-instrument/niveliry",
+            "Дальномеры": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/izmeritel-nyj-instrument/dal-nomery",
+            "Строительные штативы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/izmeritel-nyj-instrument/stroitel-nye-shtativy",
+            "Штангенциркули": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/izmeritel-nyj-instrument/shtangencirkuli"
+        }
+    },
+    {
+        "title": "Отдых и пикник",
+        "subtitle": {
+            "Грили": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/gazovye-i-ugol-nye-grili",
+            "Мангалы": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/mangaly",
+            "Учаги": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/uchagi",
+            "Аксессуары для грилей": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/aksessuary-dlja-grilja",
+            "Решетки для грилей, мангалов и печей": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/reshetki-dlja-grilej-mangalov-i-pechej",
+            "Бассейны": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/bassejny",
+            "Аксессуары для бассейнов": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/aksessuary-dlja-bassejnov",
+            "Батуты": "https://www.technodom.kz/catalog/sport-turizm-bagazh/domashnij-fitnes/batuty"
+        }
+    },
+    {
+        "title": "Техника для сада и дома",
+        "subtitle": {
+            "Снегоуборочные машины": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/snegouborochnye-mashiny",
+            "Мойки высокого давления": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/mojki-vysokogo-davlenija",
+            "Аксессуары для моек высокого давления": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/aksessuary-dlja-moek-vysokogo-davlenija",
+            "Газонокосилки": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/gazonokosilki",
+            "Мотокосы и триммеры садовые": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/motokosy-i-trimmery-sadovye",
+            "Измельчители садовые": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/izmel-chiteli-sadovye",
+            "Кусторезы и ножницы садовые": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/kustorezy-i-nozhnicy-sadovye",
+            "Электрогенераторы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/jelektrogeneratory",
+            "Мотокультиваторы": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/motokul-tivatory",
+            "Воздуходувки и пылесосы садовые": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/vozduhoduvki-i-pylesosy-sadovye",
+            "Пилы цепные": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/pily-cepnye",
+            "Насосы": "https://www.technodom.kz/catalog/sad-dacha-ogorod/tehnika-dlja-sada-i-doma/nasosy"
+        }
+    },
+    {
+        "title": "Садовый инвентарь",
+        "subtitle": {
+            "Лестницы и стремянки": "https://www.technodom.kz/catalog/sad-dacha-ogorod/sadovyj-inventar/lestnicy-i-stremjanki",
+            "Мелкий садовый инструмент": "https://www.technodom.kz/catalog/sad-dacha-ogorod/sadovyj-inventar/melkij-sadovyj-instrument",
+            "Секаторы, сучкорезы": "https://www.technodom.kz/catalog/sad-dacha-ogorod/sadovyj-inventar/sekatory-suchkorezy",
+            "Оборудование и инструменты для полива": "https://www.technodom.kz/catalog/sad-dacha-ogorod/sadovyj-inventar/oborudovanie-i-instrumenty-dlja-poliva"
+        }
+    },
+    {
+        "title": "Оборудование",
+        "subtitle": {
+            "Сварочные аппараты": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/svarochnye-apparaty",
+            "Электрогенераторы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/jelektrogeneratory",
+            "Бетономешалки": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/betonomeshalki",
+            "Аксессуары для сварочной работы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/aksessuary-dlja-svarochnoj-raboty",
+            "Стабилизаторы напряжения": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/stabilizatory-naprjazhenija",
+            "Циркулярные насосы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/cirkuljarnye-nasosy",
+            "Компрессоры": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/kompressory",
+            "Станочное оборудование": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/oborudovanie/stanochnoe-oborudovanie"
+        }
+    },
+    {
+        "title": "Отделочный инструмент",
+        "subtitle": {
+            "Краскораспылители": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/otdelochnyj-instrument/kraskoraspyliteli",
+            "Плиткорезы и стеклорезы": "https://www.technodom.kz/catalog/santehnika-instrumenty-otoplenie/otdelochnyj-instrument/plitkorezy-i-steklorezy"
+        }
+    },
+    {
+        "title": "Безопасность дома",
+        "subtitle": {
+            "Камеры видеонаблюдения": "https://www.technodom.kz/catalog/tv-audio-foto-video/bezopasnost-doma/kamery-videonabljudenija"
+        }
+    },
+    {
+        "title": "Освещение",
+        "subtitle": {
+            "Светильники": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/osveschenie/svetil-niki",
+            "Лампочки": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/osveschenie/lampochki"
+        }
+    },
+    {
+        "title": "Аксессуары для дома",
+        "subtitle": {
+            "Бытовая химия": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija",
+            "Аксессуары для швейных машин": "https://www.technodom.kz/catalog/bytovaja-tehnika/uhod-za-odezhdoj/dlja-shvejnyh-mashin",
+            "Принадлежности для уборки": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/prinadlezhnosti-dlja-uborki",
+            "Вазы и кашпо": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/dekor/vazy-i-kashpo"
+        }
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "title": "Смартфоны и телефоны",
+        "subtitle": {
+            "Смартфоны Samsung": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/samsung",
+            "Смартфоны Apple": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/apple",
+            "Смартфоны HUAWEI": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/huawei",
+            "Смартфоны Xiaomi": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/xiaomi",
+            "Смартфоны HONOR": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/honor",
+            "Смартфоны OPPO": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/oppo",
+            "Смартфоны Vivo": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/vivo",
+            "Смартфоны Motorola": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/motorola",
+            "Смартфоны Redmi": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/redmi",
+            "Смартфоны Nubia": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/nubia",
+            "Смартфоны Tecno": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/tecno",
+            "Смартфоны Realme": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/realme",
+            "Смартфоны Infinix": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/smartfony/f/brands/infinix",
+            "Мобильные телефоны": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/smartfony-i-telefony/mobil-nye-telefony"
+        }
+    },
+    {
+        "title": "Планшеты и электронные книги",
+        "subtitle": {
+            "Планшеты Samsung": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/planshety/f/brands/samsung",
+            "Планшеты Apple iPad": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/planshety/f/brands/apple",
+            "Аксессуары для iPad": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/aksessuary-dlja-ipad",
+            "Чехлы для планшетов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/chehly-dlja-planshetov",
+            "Планшеты Lenovo": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/planshety/f/brands/lenovo",
+            "Аксессуары для планшетов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/aksessuary",
+            "Электронные книги": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/planshety-i-jelektronnye-knigi/jelektronnye-knigi"
+        }
+    },
+    {
+        "title": "Гаджеты",
+        "subtitle": {
+            "Смарт часы Apple": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/smart-chasy/f/brands/apple",
+            "Смарт часы Samsung": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/smart-chasy/f/brands/samsung",
+            "Смарт часы HUAWEI": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/smart-chasy/f/brands/huawei",
+            "Смарт часы Xiaomi": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/smart-chasy/f/brands/xiaomi",
+            "Аксессуары для смарт часов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/aksessuary-dlja-smart-chasov",
+            "Фитнес браслеты": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/fitnes-braslety",
+            "Детские часы с GPS": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/detskie-chasy-s-gps",
+            "Экшн-камеры": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jekshn-kamery-i-aksessuary/jekshn-kamery",
+            "Аксессуары для экшн камер": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/jekshn-kamery-i-aksessuary/aksessuary-dlja-jekshn-kamer",
+            "Bluetooth-трекер": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/bluetooth-treker"
+        }
+    },
+    {
+        "title": "Аксессуары для смартфонов",
+        "subtitle": {
+            "Умные колонки": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/besprovodnye-kolonki/f/cl-besprovodnyye-kolonki-spec-ymnayakolonka/yes",
+            "Портативные колонки": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/besprovodnye-kolonki",
+            "Внешние аккумуляторы": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/vneshnie-akkumuljatory",
+            "Чехлы": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/chehly",
+            "Защита экрана": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/zaschita-jekrana",
+            "Карты памяти": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/karty-pamjati",
+            "Зарядные устройства": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/zarjadnye-ustrojstva",
+            "Беспроводные зарядные устройства": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/zarjadnye-ustrojstva/f/cl-484-osnovnye-harakteristiki-type/besprovodnoe-zarjadnoe-ustroystvo",
+            "Кабели для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/kabeli-i-adaptery",
+            "Переходники для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/kabeli-i-adaptery/f/cl-cables-and-adapters-osnovnyye-380/adapter",
+            "Авто аксессуары для смартфонов": "https://www.technodom.kz/catalog/avtotovary-i-transport/akkumuljatory-i-zarjadnye-ustrojstva/avtomobil-nye-zarjadnye-ustrojstva",
+            "Подставки": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/podstavki",
+            "Селфи моноподы": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/selfi-monopody",
+            "Стабилизаторы (Стедикамы)": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/stedikamy/f/cl-stedicam-osnovnyye-380/dlja-smartfona"
+        }
+    },
+    {
+        "title": "Наушники",
+        "subtitle": {
+            "AirPods": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/naushniki/vse-naushniki/f/brands/apple/cl-naushniki-podkluchenie-473/besprovodnoe",
+            "Наушники Xiaomi": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/naushniki/vse-naushniki/f/brands/xiaomi",
+            "Беспроводные": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/naushniki/vse-naushniki/f/cl-naushniki-podkluchenie-473/besprovodnoe",
+            "Проводные": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/naushniki/vse-naushniki/f/cl-naushniki-podkluchenie-473/provodnoe",
+        }
+    },
+    {
+        "title": "Программное обеспечение",
+        "subtitle": {
+            "Антивирусы и безопасность для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/antivirusy-i-bezopasnost-dlja-smartfonov",
+            "Офисные программы для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/ofisnye-programmy-dlja-smartfonov-i-gadzhetov",
+            "Учеба и развитие для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/ucheba-i-razvitie-dlja-smartfonov-i-gadzhetov",
+            "Онлайн-кинотеатры для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/onlajn-kinoteatry-dlja-smartfonov-i-gadzhetov",
+            "Удаленный сервис для смартфонов": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/udalennyj-servis-dlja-smartfonov-i-gadzhetov",
+            "Блокировщики рекламы": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/antivirusy-i-bezopasnost-dlja-smartfonov/f/cl-software-type/blokirovshhik-reklamih",
+            "Родительский контроль": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/po-dlja-smartfonov-i-gadzhetov/antivirusy-i-bezopasnost-dlja-smartfonov/f/cl-software-type/roditeljhskiy-kontroljh"
+        }
+    },
+    {
+        "title": "Умный дом",
+        "subtitle": {
+            "Умный дом Xiaomi": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/f/brands/xiaomi",
+            "Управление для умного дома": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/upravlenie-dlja-umnogo-doma",
+            "Пульты управления для умного дома": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/pul-ty-upravlenija-dlja-umnogo-doma",
+            "Умные лампы": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/umnye-lampy",
+            "Умные розетки": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/umnye-rozetki",
+            "Датчики": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/datchiki",
+            "Яндекс (Алиса)": "https://www.technodom.kz/cms/promo/smart_devices_for_alisa"
+        }
+    }
+]

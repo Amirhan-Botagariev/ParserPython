@@ -1,0 +1,85 @@
+[
+    {
+        "title": "Xbox",
+        "subtitle": {
+            "Консоли Xbox": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igrovye-pristavki/vse-igrovye-pristavki/f/brands/xbox",
+            "Аксессуары Xbox": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/xbox/aksessuary-xbox",
+            "Игровые манипуляторы Xbox": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-dzhojstiki/f/cl-game-manipulators-platforms/xbox",
+            "Игровые рули Xbox": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-ruli/f/cl-game-manipulators-platforms/xbox",
+            "Игры Xbox": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igry-dlja-pristavok/igry-xbox"
+        }
+    },
+    {
+        "title": "PlayStation",
+        "subtitle": {
+            "PlayStation 5": "https://www.technodom.kz/cms/under/predzakaz-ps5",
+            "Kонсоли PlayStation": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igrovye-pristavki/vse-igrovye-pristavki/f/brands/sony",
+            "Аксессуары PlayStation": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/playstation/aksessuary-playstation",
+            "Игровые манипуляторы PlayStation": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-dzhojstiki/f/cl-game-manipulators-platforms/playstation",
+            "Игровые рули PlayStation": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-ruli/f/cl-game-manipulators-platforms/playstation",
+            "Игры PlayStation 4": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igry-dlja-pristavok/igry-playstation-4",
+            "Игры PlayStation 5": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igry-dlja-pristavok/igry-playstation-5"
+        }
+    },
+    {
+        "title": "Nintendo",
+        "subtitle": {
+            "Консоли Nintendo": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igrovye-pristavki/vse-igrovye-pristavki/f/brands/nintendo",
+            "Аксессуары Nintendo": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/nintendo/aksessuary-nintendo",
+            "Игровые манипуляторы Nintendo": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-dzhojstiki/f/cl-game-manipulators-platforms/nintendo",
+            "Игры Nintendo": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igry-dlja-pristavok/igry-nintendo"
+        }
+    },
+    {
+        "title": "PC",
+        "subtitle": {
+            "Игровые ноутбуки": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/noutbuki-i-aksessuary/noutbuki/f/cl-notebooks-main-spec-426/dlja-igr-i-prodakshena",
+            "Игровые компьютеры": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-jutery-i-monitory/stacionarnye-pk/f/cl-statsionarnye-pk-main-spec-type/dlja-igr",
+            "Игровые мониторы": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-jutery-i-monitory/monitory/f/cl-monitors-main-spec-class-monitor/igrovihe",
+            "Игровые клавиатуры": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-juternye-aksessuary/klaviatury/f/cl-klaviatury-osnovnyye-380/igrovaja",
+            "Игровые мыши": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-juternye-aksessuary/myshi/f/cl-myshi-osnovnyye-game-mouse/yes",
+            "Игровые коврики для мыши": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-juternye-aksessuary/kovriki-dlja-myshi/f/cl-kovriki-osnovnyye-gaming-mouse-pad/yes",
+            "Игровые наушники": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/naushniki/vse-naushniki/f/cl-naushniki-harakteristiki-792/igrovihe",
+            "Виртуальная реальность": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/virtual-naja-real-nost/ochki-virtual-noj-real-nosti/f/cl-virtual-reality-osnovnyye-792/dlja-pk",
+            "Игровые манипуляторы PC": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-dzhojstiki/f/cl-game-manipulators-platforms/pc",
+            "Игровые рули PC": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-ruli/f/cl-game-manipulators-platforms/pc",
+            "Игровые аксессуары": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/aksessuary-dlja-igr/igrovye-aksessuary",
+            "Авиасимуляторы для полёта": "https://www.technodom.kz/cms/promo/simuljatory-poleta-logitech-g"
+        }
+    },
+    {
+        "title": "Всё для стриминга",
+        "subtitle": {
+            "Карты видеозахвата": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komplektujuschie/devajsy-dlja-striminga",
+            "Игровые микрофоны": "https://www.technodom.kz/catalog/tv-audio-foto-video/audio-tehnika/mikrofony/f/cl-microphones-main-792/igrovoy-mikrofon",
+            "Веб-камеры": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/komp-juternye-aksessuary/veb-kamery",
+            "Кольцевые лампы": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/svetovoe-oborudovanie/kol-cevye-lampy",
+            "Nanoleaf – умное освещение": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/umnyj-dom/umnye-lampy/f/brands/nanoleaf",
+            "Elgato": "https://www.technodom.kz/cms/promo/novinki-elgato"
+        }
+    },
+    {
+        "title": "Игровая мебель",
+        "subtitle": {
+            "Игровые кресла": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/ofisnaja-mebel/ofisnye-stul-ja-i-kresla/f/cl-chairs-and-armchairs-osnovnyye-380/geymerskoe-kreslo",
+            "Игровые столы": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/mebel-dlja-igr/igrovye-stoly"
+        }
+    },
+    {
+        "title": "Коллекционные игрушки Funko POP!",
+        "subtitle": {}
+    },
+    {
+        "title": "Виртуальная реальность",
+        "subtitle": {
+            "Очки виртуальной реальности": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/virtual-naja-real-nost/ochki-virtual-noj-real-nosti"
+        }
+    },
+    {
+        "title": "Ретро консоли",
+        "subtitle": {
+            "Консоли Retro Genesis": "https://www.technodom.kz/catalog/vsjo-dlja-gejmerov/igrovye-pristavki/vse-igrovye-pristavki/f/brands/retro-genesis",
+            "Батарейки": "https://www.technodom.kz/catalog/fototehnika-i-kvadrokoptery/pitanie-dlja-fotoapparatov"
+        }
+    }
+]

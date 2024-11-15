@@ -1,0 +1,110 @@
+[
+    {
+        "title": "Установки кондиционеров",
+        "subtitle": {
+            "7000-9000 BTU": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd970/60d426b45256e6e3a5508d52",
+            "12000 BTU": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd970/60d426b4ef8354fdc8f2b324",
+            "18000-24000 BTU": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd970/60d426b44e258d262f8dd974",
+            "Колонные": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd970/60d426b45256e6e3a5508d53"
+        }
+    },
+    {
+        "title": "Установки телевизоров",
+        "subtitle": {
+            "До 37 дюймов": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d4f/60d426b4ef8354fdc8f2b325",
+            "От 51 до 60 дюймов": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d4f/60d426b45256e6e3a5508d54",
+            "От 61 дюймов": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d4f/60d426b4ef8354fdc8f2b326",
+            "Все телевизоры": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d4f/662f8e4b72c43f5d519397bf"
+        }
+    },
+    {
+        "title": "Установки плит",
+        "subtitle": {
+            "Газовые": "https://www.technodom.kz/catalog/s/60d426b4ef8354fdc8f2b321/60d426b44e258d262f8dd976",
+            "Комбинированные": "https://www.technodom.kz/catalog/s/60d426b4ef8354fdc8f2b321/60d426b45256e6e3a5508d55",
+            "Электрические": "https://www.technodom.kz/catalog/s/60d426b4ef8354fdc8f2b321/60d426b4ef8354fdc8f2b327"
+        }
+    },
+    {
+        "title": "Установки духовок",
+        "subtitle": {
+            "Встраиваемые газовые": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd971/60d426b44e258d262f8dd977",
+            "Встраиваемые электрические": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd971/60d426b45256e6e3a5508d56"
+        }
+    },
+    {
+        "title": "Установки водонагревателей",
+        "subtitle": {
+            "Накопительные": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d50/60d426b4ef8354fdc8f2b328"
+        }
+    },
+    {
+        "title": "Установки посудомоечных машин",
+        "subtitle": {
+            "Все модели": "https://www.technodom.kz/catalog/s/60d426b4ef8354fdc8f2b322/60d426b44e258d262f8dd978"
+        }
+    },
+    {
+        "title": "Установки поверхностей",
+        "subtitle": {
+            "Встраиваемые газовые": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd972/60d426b45256e6e3a5508d57",
+            "Встраиваемые электрические": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd972/60d426b4ef8354fdc8f2b329"
+        }
+    },
+    {
+        "title": "Установки вытяжек",
+        "subtitle": {
+            "Кассетные": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d51/60d426b44e258d262f8dd979",
+            "Купольные": "https://www.technodom.kz/catalog/s/60d426b45256e6e3a5508d51/60d426b45256e6e3a5508d58"
+        }
+    },
+    {
+        "title": "Установки холодильников",
+        "subtitle": {
+            "Все модели": "https://www.technodom.kz/catalog/s/60d426b4ef8354fdc8f2b323/60d426b4ef8354fdc8f2b32a"
+        }
+    },
+    {
+        "title": "Установки стиральных машин",
+        "subtitle": {
+            "До 10кг": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd973/60d426b44e258d262f8dd97a",
+            "От 10кг до 12кг": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd973/60d426b45256e6e3a5508d59",
+            "От 12кг": "https://www.technodom.kz/catalog/s/60d426b44e258d262f8dd973/60d426b4ef8354fdc8f2b32b"
+        }
+    },
+    {
+        "title": "Установки тренажеров",
+        "subtitle": {
+            "Установки беговых дорожек": "https://www.technodom.kz/catalog/s/6167cd3468bece254349e064/6167cd3468bece254349e065"
+        }
+    },
+    {
+        "title": "Установки бассейнов",
+        "subtitle": {
+            "До 4-х метров": "https://www.technodom.kz/catalog/s/621c5895328b85eb7875c28c/621cc9af5892a889f9be9399",
+            "Свыше 4-х метров": "https://www.technodom.kz/catalog/s/621c5895328b85eb7875c28c/621cc9afbf1d02a8264f8a82"
+        }
+    },
+    {
+        "title": "Установки встраиваемых посудомоечных машин",
+        "subtitle": {
+            "Все модели": "https://www.technodom.kz/catalog/s/64788ac4808573ee14fc08a3/64788ac5808573ee14fc08a4"
+        }
+    },
+    {
+        "title": "Установки смартфонов",
+        "subtitle": {
+            "Все Смартфоны": "https://www.technodom.kz/catalog/s/65e70bda12c057d19fa6ddc1/66347fe61d8212e6f807c792",
+            "Все Смартфоны Apple": "https://www.technodom.kz/catalog/s/65e70bda12c057d19fa6ddc1/6635d1651d8212e6f807c7aa"
+        }
+    },
+    {
+        "title": "Установки стационарных ПК",
+        "subtitle": {
+            "Все Стационарные ПК": "https://www.technodom.kz/catalog/s/65f980df82c48efa212dd407/662b99c96ba7dd9469517d13",
+            "Все Ноутбуки": "https://www.technodom.kz/catalog/s/65f980df82c48efa212dd407/6635d1651d8212e6f807c7ac",
+            "Все Мини ПК": "https://www.technodom.kz/catalog/s/65f980df82c48efa212dd407/6635d1651d8212e6f807c7ae",
+            "Все Моноблоки": "https://www.technodom.kz/catalog/s/65f980df82c48efa212dd407/6635d1651d8212e6f807c7b0"
+        }
+    }
+]

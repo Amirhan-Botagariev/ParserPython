@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Сувенирная продукция",
+        "subtitle": {
+            "Сувениры Technodom": "https://www.technodom.kz/catalog/suvenirnaja-produkcija/suveniry-technodom",
+            "Эко-сумки, эко-пакеты": "https://www.technodom.kz/catalog/suvenirnaja-produkcija/jeko-sumki-jeko-pakety",
+            "Зарядные устройства Technodom": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/aksessuary-dlja-telefonov/vneshnie-akkumuljatory/f/brands/techno-dom",
+            "Рюкзаки Technodom": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/noutbuki-i-aksessuary/rjukzaki/f/brands/techno-dom"
+        }
+    },
+    {
+        "title": "Одежда",
+        "subtitle": {
+            "Technoarmy": "https://www.technodom.kz/catalog/suvenirnaja-produkcija/odezhda/technoarmy"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Программное обеспечение для cмартфонов",
+        "subtitle": {
+            "Антивирусы и безопасность для смартфонов": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-smartfonov-i-gadzhetov/antivirusy-i-bezopasnost-dlja-smartfonov",
+            "Офисные программы для смартфонов": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-smartfonov-i-gadzhetov/ofisnye-programmy-dlja-smartfonov-i-gadzhetov",
+            "Приложения для учёбы": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-smartfonov-i-gadzhetov/ucheba-i-razvitie-dlja-smartfonov-i-gadzhetov",
+            "Сертификаты на онлайн кинотеатры": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-smartfonov-i-gadzhetov/onlajn-kinoteatry-dlja-smartfonov-i-gadzhetov",
+            "Удаленный сервис для смартфонов и гаджетов": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-smartfonov-i-gadzhetov/udalennyj-servis-dlja-smartfonov-i-gadzhetov"
+        }
+    },
+    {
+        "title": "Программное обеспечение для ноутбуков и ПК",
+        "subtitle": {
+            "ПО для ноутбуков и ПК": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-noutbukov-i-pk/po-dlja-noutbukov-i-pk",
+            "Антивирусы и безопасность для ноутбуков и ПК": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-noutbukov-i-pk/antivirusy-i-bezopasnost-dlja-noutbukov-i-pk",
+            "Операционные системы для ноутбуков и ПК": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-noutbukov-i-pk/operacionnye-sistemy-dlja-noutbukov-i-pk",
+            "Офисные программы для ноутбуков и ПК": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-noutbukov-i-pk/programmy-dlja-noutbukov-i-pk",
+            "Подписка на онлайн учёбу для ноутбуков и ПК": "https://www.technodom.kz/catalog/czifrovye-produkty/po-dlja-noutbukov-i-pk/ucheba-i-razvitie-dlja-noutbukov-i-pk"
+        }
+    },
+    {
+        "title": "Подписки и сервисы для телевизоров",
+        "subtitle": {
+            "Подписки на удаленный сервис для ТВ": "https://www.technodom.kz/catalog/czifrovye-produkty/podpiski-i-servisy/onlajn-kinoteatry-dlja-tv",
+            "Сертификаты на онлайн кинотеатры для ТВ": "https://www.technodom.kz/catalog/czifrovye-produkty/podpiski-i-servisy/onlajn-kinoteatry-dlja-tv"
+        }
+    }
+]

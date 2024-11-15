@@ -1,0 +1,84 @@
+[
+    {
+        "title": "Уход за волосами",
+        "subtitle": {
+            "Фены и фены-щётки": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-volosami/feny-i-feny-schjotki",
+            "Выпрямители": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-volosami/vyprjamiteli",
+            "Стайлеры": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-volosami/stajlery",
+            "Плойки и бигуди": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-volosami/plojki-i-bigudi",
+            "Расчески": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-volosami/rascheski-schjotki"
+        }
+    },
+    {
+        "title": "Массажеры",
+        "subtitle": {
+            "Массажеры для ног": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/massazhery/massazhery-dlja-nog",
+            "Массажеры для тела": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/massazhery/massazhery-dlja-tela",
+            "Массажеры для глаз": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/massazhery/massazhery-dlja-glaz",
+            "Массажные столы": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/massazhery/massazhnye-stoly",
+            "Массажные кресла": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-telom/massazhnye-kresla"
+        }
+    },
+    {
+        "title": "Уход за лицом",
+        "subtitle": {
+            "Косметические приборы": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-licom/kosmeticheskie-pribory",
+            "Зеркала косметологические": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-licom/zerkala-kosmetologicheskie",
+            "Массажеры для лица": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-licom/massazhery-dlja-lica"
+        }
+    },
+    {
+        "title": "Мужской уход",
+        "subtitle": {
+            "Электробритвы": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/muzhskoj-uhod/jelektrobritvy",
+            "Машинки для стрижки": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-volosami/mashinki-dlja-strizhki",
+            "Триммеры": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/muzhskoj-uhod/trimmery",
+            "Аксессуары для электробритв": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/muzhskoj-uhod/aksessuary-dlja-jelektrobritv"
+        }
+    },
+    {
+        "title": "Электрические грелки",
+        "subtitle": {}
+    },
+    {
+        "title": "Уход за телом",
+        "subtitle": {
+            "Эпиляторы": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-telom/jepiljatory",
+            "Ванны для ног": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-telom/vanny-dlja-nog",
+            "Разогреватели для воска": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-telom/razogrevateli-dlja-voska"
+        }
+    },
+    {
+        "title": "Уход за руками и ногтями",
+        "subtitle": {
+            "Аппараты для маникюра": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-rukami-i-nogtjami/apparaty-dlja-manikjura"
+        }
+    },
+    {
+        "title": "Уход за полостью рта",
+        "subtitle": {
+            "Электрические зубные щётки": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-polost-ju-rta/jelektricheskie-zubnye-schjotki",
+            "Ирригаторы": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-polost-ju-rta/irrigatory",
+            "Насадки к зубным щёткам": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-polost-ju-rta/nasadki-k-zubnym-schjotkam",
+            "Насадки для ирригатора": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-polost-ju-rta/nasadki-k-zubnym-schjotkam/f/cl-zubnye-shchyetki-osnovnye-380/nasadka-dlja-irrigatora",
+            "Стерилизаторы для щёток": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/uhod-za-polost-ju-rta/cterilizatory-dlja-schetok"
+        }
+    },
+    {
+        "title": "Медицинские изделия и приборы",
+        "subtitle": {
+            "Телемедицина": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/medicinskie-izdelija-i-pribory/telemedicina",
+            "Тонометры": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/medicinskie-izdelija-i-pribory/tonometry",
+            "Небулайзеры": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/medicinskie-izdelija-i-pribory/nebulajzery",
+            "Средства индивидуальной защиты": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/medicinskie-izdelija-i-pribory/sredstva-individual-noj-zaschity",
+            "Электронные термометры": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/medicinskie-izdelija-i-pribory/jelektronnye-termometry"
+        }
+    },
+    {
+        "title": "Весы напольные",
+        "subtitle": {
+            "Весы электронные": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/vesy-napol-nye/vesy-jelektronnye",
+            "Весы диагностические": "https://www.technodom.kz/catalog/krasota-i-zdorov-e/vesy-napol-nye/vesy-diagnosticheskie"
+        }
+    }
+]

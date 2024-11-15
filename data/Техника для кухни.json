@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Холодильное и морозильное оборудование",
+        "subtitle": {
+            "Холодильники Hotpoint": "https://www.technodom.kz/catalog/bytovaja-tehnika/hranenie-produktov-i-napitkov/holodil-niki/f/brands/hotpoint",
+            "Холодильники для хранения напитков": "https://www.technodom.kz/catalog/bytovaja-tehnika/hranenie-produktov-i-napitkov/holodil-niki-dlja-hranenija-napitkov",
+            "Морозильные камеры": "https://www.technodom.kz/catalog/bytovaja-tehnika/hranenie-produktov-i-napitkov/morozil-nye-kamery",
+            "Аксессуары для холодильников": "https://www.technodom.kz/catalog/bytovaja-tehnika/hranenie-produktov-i-napitkov/aksessuary-dlja-holodil-nikov",
+            "Вакууматоры": "https://www.technodom.kz/catalog/bytovaja-tehnika/hranenie-produktov-i-napitkov/vakuumatory",
+            "Бытовая химия для холодильников": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija/f/cl-household-chemicals-main-appointment-of-technology/dlja-kholodiljhnikov"
+        }
+    },
+    {
+        "title": "Приготовление напитков",
+        "subtitle": {
+            "Соковыжималки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/sokovyzhimalki",
+            "Электрические чайники": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/jelektricheskie-chajniki",
+            "Термопоты": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/termopoty",
+            "Ледогенераторы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/ledogeneratory"
+        }
+    },
+    {
+        "title": "Кухонные приборы",
+        "subtitle": {
+            "Плиты": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/plity",
+            "Настольные плиты": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/nastol-nye-plity",
+            "Микроволновые печи": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/mikrovolnovye-pechi",
+            "Электрические печи": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/jelektricheskie-pechi",
+            "Мультиварки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/mul-tivarki",
+            "Су вид": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/su-vid",
+            "Пароварки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/parovarki",
+            "Грили": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/grili",
+            "Сушилки для овощей и фруктов": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/sushilki-dlja-ovoschej-i-fruktov",
+            "Хлебопечки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/hlebopechki",
+            "Тостеры": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/tostery",
+            "Весы кухонные": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/vesy-kuhonnye",
+            "Сэндвичницы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/sendvichnicy",
+            "Вафельницы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/vafel-nicy",
+            "Аэрогрили": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/ajerogrili",
+            "Фритюрницы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/fritjurnicy",
+            "Йогуртницы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/jogurtnicy",
+            "Бытовая химия для плит, духовок и СВЧ": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija/f/cl-household-chemicals-main-appointment-of-technology/dlja-plit-dukhovok-i-svch",
+            "Панели для мультипекаря": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/paneli-dlja-mul-tipekarja",
+            "Сепараторы и маслобойки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/separatory-i-maslobojki"
+        }
+    },
+    {
+        "title": "Обработка продуктов",
+        "subtitle": {
+            "Кухонные машины и процессоры": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/obrabotka-produktov/kuhonnye-mashiny-i-processory",
+            "Кухонные роботы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/obrabotka-produktov/kuhonnye-roboty",
+            "Блендеры": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/obrabotka-produktov/blendery",
+            "Миксеры": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/obrabotka-produktov/miksery",
+            "Мясорубки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/obrabotka-produktov/mjasorubki",
+            "Аксессуары для обработки продуктов": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/obrabotka-produktov/aksessuary-dlja-obrabotki-produktov"
+        }
+    },
+    {
+        "title": "Приготовление кофе",
+        "subtitle": {
+            "Кофемашины": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/kofemashiny",
+            "Профессиональные кофемашины": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/professional-nye-kofemashiny",
+            "Кофемолки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/kofemolki",
+            "Кофеварки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/kofevarki",
+            "Кофе": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/kofe",
+            "Турки для кофе": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/turki-dlja-kofe",
+            "Контейнеры и пеновзбиватели": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/kontejnery-i-penovzbivateli",
+            "Наборы чашек для кофе": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/nabory-chashek-dlja-kofe",
+            "Бытовая химия для кофемашин": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija/f/cl-household-chemicals-main-appointment-of-technology/dlja-kofemashin",
+            "Сиропы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/siropy",
+            "Аксессуары для кофе": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-kofe/aksessuary-dlja-kofe"
+        }
+    }
+]

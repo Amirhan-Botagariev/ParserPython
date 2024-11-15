@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Собери кухню",
+        "subtitle": {}
+    },
+    {
+        "title": "Встраиваемая техника",
+        "subtitle": {
+            "Встраиваемые духовки": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-duhovki",
+            "Встраиваемые холодильники": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-holodil-niki",
+            "Встраиваемые холодильники для вина": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-holodil-niki-dlja-vina",
+            "Встраиваемые морозильники": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-morozil-niki",
+            "Встраиваемые стиральные машины": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-stiral-nye-mashiny",
+            "Встраиваемые микроволновые печи": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-mikrovolnovye-pechi",
+            "Встраиваемые кофемашины": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-kofemashiny",
+            "Аксессуары для встраиваемой техники": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/aksessuary-dlja-vstraivaemoj-tehniki",
+            "Измельчители пищевых отходов": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/izmel-chiteli-pischevyh-othodov",
+            "Бытовая химия для встраиваемой техники": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija/f/cl-household-chemicals-main-appointment-of-technology/dlja-stiraljhnihkh-mashin"
+        }
+    },
+    {
+        "title": "Встраиваемые поверхности",
+        "subtitle": {
+            "Газовые поверхности": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-poverhnosti/gazovye-poverhnosti",
+            "Электрические поверхности": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-poverhnosti/jelektricheskie-poverhnosti",
+            "Индукционные поверхности": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-poverhnosti/indukcionnye-poverhnosti",
+            "Комбинированные поверхности": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-poverhnosti/kombinirovannye-poverhnosti"
+        }
+    },
+    {
+        "title": "Вытяжки",
+        "subtitle": {
+            "Кассетные вытяжки": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-vytjazhki/kassetnye-vytjazhki",
+            "Купольные вытяжки": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-vytjazhki/kupol-nye-vytjazhki",
+            "Полновстраиваемые вытяжки": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-vytjazhki/polnovstraivaemye-vytjazhki",
+            "Вертикальные вытяжки": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-vytjazhki/vertikal-nye-vytjazhki",
+            "Островные вытяжки": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemye-vytjazhki/ostrovnye-vytjazhki"
+        }
+    },
+    {
+        "title": "Посудомоечная техника",
+        "subtitle": {
+            "Встраиваемые посудомоечные машины": "https://www.technodom.kz/catalog/bytovaja-tehnika/vstraivaemaja-tehnika/vstraivaemye-posudomoechnye-mashiny",
+            "Посудомоечные машины": "https://www.technodom.kz/catalog/bytovaja-tehnika/uhod-za-domom/posudomoechnye-mashiny",
+            "Компактные посудомоечные машины": "https://www.technodom.kz/catalog/bytovaja-tehnika/uhod-za-domom/posudomoechnye-mashiny/f/cl-posudomoechnye-mashiny-1-osnovnyye-tipposud/kompaktnaja",
+            "Бытовая химия для посудомоечных машин": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija/f/cl-household-chemicals-main-appointment-of-technology/dlja-posudomoechnihkh-mashin"
+        }
+    }
+]

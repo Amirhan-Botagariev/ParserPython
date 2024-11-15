@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Абонементы ТехноФит",
+        "subtitle": {}
+    },
+    {
+        "title": "Транспорт",
+        "subtitle": {
+            "Велосипеды": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/velosipedy",
+            "Электровелосипеды": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/velosipedy/f/cl-velosipedy-osnovnyye-vid/ehlektrovelosiped",
+            "Самокаты": "https://www.technodom.kz/catalog/sport-turizm-bagazh/transport/samokaty",
+            "Электросамокаты": "https://www.technodom.kz/catalog/sport-turizm-bagazh/transport/jelektrosamokaty",
+            "Велокресла": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/velokresla",
+            "Флягодержатели и фляги": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/fljagoderzhateli-i-fljagi",
+            "Крылья": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/kryl-ja",
+            "Звонки для велосипеда": "https://www.technodom.kz/catalog/sport-turizm-bagazh/velosport/zvonki-dlja-velosipeda"
+        }
+    },
+    {
+        "title": "Путешествия и туризм",
+        "subtitle": {
+            "Чемоданы": "https://www.technodom.kz/catalog/sport-turizm-bagazh/puteshestvija-i-turizm/chemodany",
+            "Рюкзаки": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/noutbuki-i-aksessuary/rjukzaki",
+            "Сумки": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/noutbuki-i-aksessuary/sumki",
+            "Спортивные сумки": "https://www.technodom.kz/catalog/noutbuki-i-komp-jutery/noutbuki-i-aksessuary/sumki/f/cl-sumki-dlya-noutbukov-osnovnyye-purpose-1/sportivnaja-sumka"
+        }
+    },
+    {
+        "title": "Тренажеры",
+        "subtitle": {
+            "Беговые дорожки": "https://www.technodom.kz/catalog/sport-turizm-bagazh/trenazhery/begovye-dorozhki",
+            "Велотренажеры и велостанки": "https://www.technodom.kz/catalog/sport-turizm-bagazh/trenazhery/velotrenazhery-i-velostanki",
+            "Эллиптические тренажеры": "https://www.technodom.kz/catalog/sport-turizm-bagazh/trenazhery/jellipticheskie-trenazhery",
+            "Силовые тренажеры": "https://www.technodom.kz/catalog/sport-turizm-bagazh/trenazhery/silovye-trenazhery",
+            "Степперы": "https://www.technodom.kz/catalog/sport-turizm-bagazh/trenazhery/steppery",
+            "Инверсионные столы": "https://www.technodom.kz/catalog/sport-turizm-bagazh/trenazhery/inversionnye-stoly"
+        }
+    },
+    {
+        "title": "Кемпинг и походы",
+        "subtitle": {
+            "Грили": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/gazovye-i-ugol-nye-grili",
+            "Газовые грили": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/gazovye-i-ugol-nye-grili/f/cl-grills-barbecue-osnovnye-tip-topliva/gaz",
+            "Электрические грили": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-pribory/grili/f/cl-grili-main-spec-380/ehlektrogriljh",
+            "Мангалы": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/mangaly",
+            "Учаги": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/uchagi",
+            "Решетки для грилей, мангалов и печей": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/reshetki-dlja-grilej-mangalov-i-pechej",
+            "Аксессуары для грилей": "https://www.technodom.kz/catalog/sport-turizm-bagazh/kemping-i-pohody/aksessuary-dlja-grilja",
+            "Термосы, фляжки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/termosy-fljazhki",
+            "Фонари": "https://www.technodom.kz/catalog/avtotovary-i-transport/aksessuary-dlja-avtoljubitelej/fonari"
+        }
+    },
+    {
+        "title": "Плавание и пляж",
+        "subtitle": {
+            "Бассейны": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/bassejny",
+            "Каркасные бассейны": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/bassejny/f/cl-swimming-pools-osnovnyye-380/karkasnihy",
+            "Надувные бассейны": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/bassejny/f/cl-swimming-pools-osnovnyye-380/naduvnoy",
+            "Аксессуары для бассейнов": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/aksessuary-dlja-bassejnov",
+            "Надувные аксессуары": "https://www.technodom.kz/catalog/sport-turizm-bagazh/plavanie-i-pljazh/naduvnye-aksessuary"
+        }
+    },
+    {
+        "title": "Спортивный инвентарь",
+        "subtitle": {
+            "Турники и брусья": "https://www.technodom.kz/catalog/sport-turizm-bagazh/domashnij-fitnes/turniki-i-brus-ja",
+            "Батуты": "https://www.technodom.kz/catalog/sport-turizm-bagazh/domashnij-fitnes/batuty",
+            "Фитнес браслеты": "https://www.technodom.kz/catalog/smartfony-i-gadzhety/gadzhety/fitnes-braslety",
+            "Аксессуары для фитнеса": "https://www.technodom.kz/catalog/sport-turizm-bagazh/sportivnyj-inventar/aksessuary-dlja-fitnesa",
+            "Бутылки для воды": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/termosy-fljazhki/f/cl-main-spec-termosy-380/butihlka-emkostjh-dlja-vodih"
+        }
+    },
+    {
+        "title": "Грили",
+        "subtitle": {}
+    },
+    {
+        "title": "Бассейны",
+        "subtitle": {}
+    }
+]

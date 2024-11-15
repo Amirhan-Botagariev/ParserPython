@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Посуда для приготовления",
+        "subtitle": {
+            "Казаны и жаровни": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/kazany-i-zharovni",
+            "Кастрюли и ковши": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/kastrjuli-i-kovshi",
+            "Сковороды и сотейники": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/skovorody-i-sotejniki",
+            "Мантоварки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/mantovarki",
+            "Термостойкая посуда": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/termostojkaja-posuda",
+            "Крышки для посуды": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/kryshki-dlja-posudy",
+            "Наборы посуды": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-prigotovlenija/nabory-posudy"
+        }
+    },
+    {
+        "title": "Кухонные принадлежности",
+        "subtitle": {
+            "Ножи и наборы ножей": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/nozhi-i-nabory-nozhej",
+            "Доски разделочные": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/doski-razdelochnye",
+            "Измельчители и тёрки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/izmel-chiteli-i-tjorki",
+            "Термосы, фляжки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/termosy-fljazhki",
+            "Кухонные инструменты": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/kuhonnye-instrumenty",
+            "Аксессуары для кухни": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/aksessuary-dlja-kuhni",
+            "Контейнеры и ёмкости для хранения": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/kontejnery-i-jomkosti-dlja-hranenija",
+            "Винные аксессуары": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/kuhonnye-prinadlezhnosti/vinnye-aksessuary"
+        }
+    },
+    {
+        "title": "Посуда для сервировки стола",
+        "subtitle": {
+            "Столовые сервизы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/stolovye-servizy",
+            "Столовые приборы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/stolovye-pribory",
+            "Посуда для напитков": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/posuda-dlja-napitkov",
+            "Чайные и кофейные наборы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/chajnye-i-kofejnye-nabory",
+            "Тарелки и блюда": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/tarelki-i-bljuda",
+            "Посуда для десертов": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/posuda-dlja-desertov",
+            "Посуда для салатов и закусок": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/posuda-dlja-salatov-i-zakusok",
+            "Посуда для соусов": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/posuda-dlja-sousov",
+            "Солонки, перечницы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/solonki-perechnicy"
+        }
+    },
+    {
+        "title": "Посуда для чая и кофе",
+        "subtitle": {
+            "Чайники": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-chaja-i-kofe/chajniki",
+            "Френч-прессы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-chaja-i-kofe/french-pressy",
+            "Чайные и кофейные наборы": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-servirovki-stola/chajnye-i-kofejnye-nabory",
+            "Чашки и блюдца": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-chaja-i-kofe/chashki-i-bljudca",
+            "Сахарницы, молочники": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/posuda-dlja-chaja-i-kofe/saharnicy-molochniki"
+        }
+    },
+    {
+        "title": "Приготовление напитков",
+        "subtitle": {
+            "Диспенсеры": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/dispensery",
+            "Аксессуары и картриджи к фильтрам для воды": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/aksessuary-i-kartridzhi-k-fil-tram-dlja-vody",
+            "Фильтры для воды": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/prigotovlenie-napitkov/fil-try-dlja-vody"
+        }
+    },
+    {
+        "title": "Все для выпечки",
+        "subtitle": {
+            "Формы для выпечки": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/vse-dlja-vypechki/formy-dlja-vypechki",
+            "Лопатки и кисти": "https://www.technodom.kz/catalog/tehnika-dlja-kuhni/vse-dlja-vypechki/lopatki-i-kisti"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Офисная мебель",
+        "subtitle": {
+            "Офисные стулья и кресла": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/ofisnaja-mebel/ofisnye-stul-ja-i-kresla"
+        }
+    },
+    {
+        "title": "Освещение",
+        "subtitle": {
+            "Светильники": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/osveschenie/svetil-niki",
+            "Лампочки": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/osveschenie/lampochki"
+        }
+    },
+    {
+        "title": "Декор",
+        "subtitle": {
+            "Вазы и кашпо": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/dekor/vazy-i-kashpo",
+            "Статуэтки": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/dekor/statujetki"
+        }
+    },
+    {
+        "title": "Аксессуары для дома",
+        "subtitle": {
+            "Бытовая химия": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/bytovaja-himija",
+            "Аксессуары для швейных машин": "https://www.technodom.kz/catalog/bytovaja-tehnika/uhod-za-odezhdoj/dlja-shvejnyh-mashin",
+            "Швабры и ведра": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/shvabry-i-vedra",
+            "Принадлежности для уборки": "https://www.technodom.kz/catalog/mebel-i-domashnij-inter-er/aksessuary-dlja-doma/prinadlezhnosti-dlja-uborki"
+        }
+    }
+]
