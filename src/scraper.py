@@ -1,12 +1,11 @@
-import json
-import os
 import time
-from pprint import pprint
-import pandas as pd
-from parser import Parser
+
+from src import utils
+from src.DataFrame import DataFrame
+from src.parser import Parser
 
 parser = Parser()
-df = pd.DataFrame()
+df = DataFrame()
 
 def scrape_whole_headings() -> dict:
         final_headings = {}
@@ -18,21 +17,34 @@ def scrape_whole_headings() -> dict:
                 time.sleep(2)
                 final_headings[heading] = parser.get_subheadings()
                 time.sleep(2)
-                save_json(final_headings[heading], heading)
+                utils.save_json(final_headings[heading], heading)
 
 
         return final_headings
-def save_json(res, name):
-        file_path = os.path.join('/Users/amirhanbotagariev/PycharmProjects/ParserPython/data', f'{name}.json')
-        with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(res, f, ensure_ascii=False, indent=4)
+def parse_links(whole_data):
+        category = whole_data
+        data = dict()
+        for section in category:
+                title = section['title']
+                subtitle = section['subtitle']
+
+                for sub_category, link in subtitle.items():
+                        data = parser.parse_subcategory(link)
+        return data
+
+
+
+
+
 
 
 def scraping():
         parser.open_browser()
-
         #final_headings = scrape_whole_headings()
 
+        whole_data = utils.read_json()
+        data = parse_links(whole_data)
+        print(data)
 
 
         parser.close_browser()

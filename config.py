@@ -1,2 +1,3 @@
 BASE_URL = "https://www.technodom.kz/catalog"
-CITY = 'Astana'
+CITY = 'Астана'
+PATH = '/Users/amirhanbotagariev/PycharmProjects/ParserPython/data'
